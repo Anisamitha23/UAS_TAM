@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.params.progressview:step-progress:1.0.2] C:\Users\acer\.gradle\caches\transforms-3\5cb8ad28e8b27c84f618da9e1168d00a\transformed\jetified-step-progress-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\a6439b6d834ad863eb55f90989389569\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\acer\.gradle\caches\transforms-3\5aa8eae7006bf7288589f012efdc1828\transformed\jetified-library-0.3.5\AndroidManifest.xml:2:1-17:12
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] C:\Users\acer\.gradle\caches\transforms-3\45111b82fa31350f9f39f1aac37f0f23\transformed\jetified-viewpagerdotsindicator-2.1.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\9d8e524cd28c504768c229249b9d7ba7\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\1d67f65642fbcfb7ec577b7fc089084e\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\acer\.gradle\caches\transforms-3\60883309d23c7e4502e92d0b0155974d\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.patgdut:RadioRealButton:v2.1.2] C:\Users\acer\.gradle\caches\transforms-3\cbf5263141575edf92479b14905b5a38\transformed\jetified-RadioRealButton-v2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\acer\.gradle\caches\transforms-3\4919287cbdbde5ec68ef9a47fbdb9e76\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\62ff8af95165d0ff63208c1731a873e1\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\acer\.gradle\caches\transforms-3\b832caf5660a88c2017927e496580d6f\transformed\jetified-library-2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\acer\.gradle\caches\transforms-3\7ae74404feb2aca35858cf6348181689\transformed\jetified-library-2.3\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\94db7c463b94684fe3759d33350a9ed8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\b4b264f47d286edcc7efbe0d69a3e4da\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\61d663e63cd2503bfde4a1eed769dee8\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\686b60131bb05636c03377d53831110b\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\2c216b9635b74c05680749f5340d5638\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\d8f79bb48e02ba4d846502da57c293ed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\68f6dd324b6cec6ef14db178144c840a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\ba330efd6e61c6e2c36e2c78dbab3df8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\c7a6a7c3606947a7c3bb9ad0beafdf5b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\1d397c5032c09ade32c0d989e724d834\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\bec28e2b534e373500ac12a6b6fd42dd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\e26d58dd9162bec74edd081ecaf0d8c7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7234059543a8a70c9bd48386a560275c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\939561e71bbd53693b8a2696b3d45942\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\3123f3aa09ba599238ab389b13fca2b9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\fd851ebd7252566febf86eb669e906a9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\5dad8e8773cfef772a8beca69763f5c7\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\4f441da09e919e0515c7675a6803331c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\b4a0ff50eb793175de5a1bcc66a889db\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\cdf9dd83246e87ff67e35ffaf85852a5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\6426b92187a01a2e18e6a16dea34c8f2\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\b18103663274dbe66da28ed52d5b0f74\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\d40d79cb8e60b46df7b222897e93478a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\c547d4a852a1aad654e07e72e5ae017b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\09400e909b6893551a23efbf9e3b0865\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\38b538adbbc3dbc588f8fb0c64ae62f4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\daa120cdbf14b5d536064ce260ef2aff\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\a087fd5b18410ef45f7d72f33f97de93\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:4:11-29
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:9:5-45:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\a6439b6d834ad863eb55f90989389569\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\a6439b6d834ad863eb55f90989389569\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\acer\.gradle\caches\transforms-3\5aa8eae7006bf7288589f012efdc1828\transformed\jetified-library-0.3.5\AndroidManifest.xml:11:5-15:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\acer\.gradle\caches\transforms-3\5aa8eae7006bf7288589f012efdc1828\transformed\jetified-library-0.3.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] C:\Users\acer\.gradle\caches\transforms-3\45111b82fa31350f9f39f1aac37f0f23\transformed\jetified-viewpagerdotsindicator-2.1.2\AndroidManifest.xml:11:5-20
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] C:\Users\acer\.gradle\caches\transforms-3\45111b82fa31350f9f39f1aac37f0f23\transformed\jetified-viewpagerdotsindicator-2.1.2\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\acer\.gradle\caches\transforms-3\60883309d23c7e4502e92d0b0155974d\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\acer\.gradle\caches\transforms-3\60883309d23c7e4502e92d0b0155974d\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\5dad8e8773cfef772a8beca69763f5c7\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\5dad8e8773cfef772a8beca69763f5c7\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\4f441da09e919e0515c7675a6803331c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\4f441da09e919e0515c7675a6803331c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\5dad8e8773cfef772a8beca69763f5c7\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:12:13-45
+	tools:ignore
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:16:13-52
+	android:roundIcon
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:13:13-58
+	android:allowBackup
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:15:13-44
+activity#aqualert.WalkThroughActivity
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:17:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:18:19-55
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:17:19-62
+activity#aqualert.StatsActivity
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:20:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:23:17-53
+	android:theme
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:22:17-49
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:21:17-54
+activity#aqualert.InitUserInfoActivity
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:26:19-55
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:25:19-63
+activity#aqualert.MainActivity
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:31:17-53
+	android:theme
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:30:17-49
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:29:17-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:35:27-74
+receiver#aqualert.recievers.NotifierReceiver
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:39:9-71
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:39:19-69
+receiver#aqualert.recievers.BootReceiver
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:40:9-44:20
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:40:19-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:41:13-43:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml:42:25-76
+uses-sdk
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+MERGED from [com.params.progressview:step-progress:1.0.2] C:\Users\acer\.gradle\caches\transforms-3\5cb8ad28e8b27c84f618da9e1168d00a\transformed\jetified-step-progress-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.params.progressview:step-progress:1.0.2] C:\Users\acer\.gradle\caches\transforms-3\5cb8ad28e8b27c84f618da9e1168d00a\transformed\jetified-step-progress-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\a6439b6d834ad863eb55f90989389569\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\a6439b6d834ad863eb55f90989389569\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\acer\.gradle\caches\transforms-3\5aa8eae7006bf7288589f012efdc1828\transformed\jetified-library-0.3.5\AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\acer\.gradle\caches\transforms-3\5aa8eae7006bf7288589f012efdc1828\transformed\jetified-library-0.3.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] C:\Users\acer\.gradle\caches\transforms-3\45111b82fa31350f9f39f1aac37f0f23\transformed\jetified-viewpagerdotsindicator-2.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] C:\Users\acer\.gradle\caches\transforms-3\45111b82fa31350f9f39f1aac37f0f23\transformed\jetified-viewpagerdotsindicator-2.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\9d8e524cd28c504768c229249b9d7ba7\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\9d8e524cd28c504768c229249b9d7ba7\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\1d67f65642fbcfb7ec577b7fc089084e\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\1d67f65642fbcfb7ec577b7fc089084e\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\acer\.gradle\caches\transforms-3\60883309d23c7e4502e92d0b0155974d\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\acer\.gradle\caches\transforms-3\60883309d23c7e4502e92d0b0155974d\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.patgdut:RadioRealButton:v2.1.2] C:\Users\acer\.gradle\caches\transforms-3\cbf5263141575edf92479b14905b5a38\transformed\jetified-RadioRealButton-v2.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.patgdut:RadioRealButton:v2.1.2] C:\Users\acer\.gradle\caches\transforms-3\cbf5263141575edf92479b14905b5a38\transformed\jetified-RadioRealButton-v2.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\acer\.gradle\caches\transforms-3\4919287cbdbde5ec68ef9a47fbdb9e76\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\acer\.gradle\caches\transforms-3\4919287cbdbde5ec68ef9a47fbdb9e76\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\62ff8af95165d0ff63208c1731a873e1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\62ff8af95165d0ff63208c1731a873e1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\acer\.gradle\caches\transforms-3\b832caf5660a88c2017927e496580d6f\transformed\jetified-library-2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\acer\.gradle\caches\transforms-3\b832caf5660a88c2017927e496580d6f\transformed\jetified-library-2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\acer\.gradle\caches\transforms-3\7ae74404feb2aca35858cf6348181689\transformed\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\acer\.gradle\caches\transforms-3\7ae74404feb2aca35858cf6348181689\transformed\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\94db7c463b94684fe3759d33350a9ed8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\94db7c463b94684fe3759d33350a9ed8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\b4b264f47d286edcc7efbe0d69a3e4da\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\b4b264f47d286edcc7efbe0d69a3e4da\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\61d663e63cd2503bfde4a1eed769dee8\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\61d663e63cd2503bfde4a1eed769dee8\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\686b60131bb05636c03377d53831110b\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\686b60131bb05636c03377d53831110b\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\2c216b9635b74c05680749f5340d5638\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\2c216b9635b74c05680749f5340d5638\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\d8f79bb48e02ba4d846502da57c293ed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\d8f79bb48e02ba4d846502da57c293ed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\68f6dd324b6cec6ef14db178144c840a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\68f6dd324b6cec6ef14db178144c840a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\ba330efd6e61c6e2c36e2c78dbab3df8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\ba330efd6e61c6e2c36e2c78dbab3df8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\c7a6a7c3606947a7c3bb9ad0beafdf5b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\c7a6a7c3606947a7c3bb9ad0beafdf5b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\1d397c5032c09ade32c0d989e724d834\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\1d397c5032c09ade32c0d989e724d834\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\bec28e2b534e373500ac12a6b6fd42dd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\bec28e2b534e373500ac12a6b6fd42dd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\e26d58dd9162bec74edd081ecaf0d8c7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\e26d58dd9162bec74edd081ecaf0d8c7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7234059543a8a70c9bd48386a560275c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7234059543a8a70c9bd48386a560275c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\939561e71bbd53693b8a2696b3d45942\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\939561e71bbd53693b8a2696b3d45942\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\3123f3aa09ba599238ab389b13fca2b9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\3123f3aa09ba599238ab389b13fca2b9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\fd851ebd7252566febf86eb669e906a9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\fd851ebd7252566febf86eb669e906a9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\5dad8e8773cfef772a8beca69763f5c7\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\5dad8e8773cfef772a8beca69763f5c7\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\4f441da09e919e0515c7675a6803331c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\4f441da09e919e0515c7675a6803331c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\b4a0ff50eb793175de5a1bcc66a889db\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\b4a0ff50eb793175de5a1bcc66a889db\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\cdf9dd83246e87ff67e35ffaf85852a5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\cdf9dd83246e87ff67e35ffaf85852a5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\6426b92187a01a2e18e6a16dea34c8f2\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\6426b92187a01a2e18e6a16dea34c8f2\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\b18103663274dbe66da28ed52d5b0f74\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\b18103663274dbe66da28ed52d5b0f74\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\d40d79cb8e60b46df7b222897e93478a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\d40d79cb8e60b46df7b222897e93478a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\c547d4a852a1aad654e07e72e5ae017b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\c547d4a852a1aad654e07e72e5ae017b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\09400e909b6893551a23efbf9e3b0865\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\09400e909b6893551a23efbf9e3b0865\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\38b538adbbc3dbc588f8fb0c64ae62f4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\38b538adbbc3dbc588f8fb0c64ae62f4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\daa120cdbf14b5d536064ce260ef2aff\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\daa120cdbf14b5d536064ce260ef2aff\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\a087fd5b18410ef45f7d72f33f97de93\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\a087fd5b18410ef45f7d72f33f97de93\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\acer\AndroidStudioProjects\pengingat-air-minum-main\app\src\main\AndroidManifest.xml
